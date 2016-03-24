@@ -274,11 +274,12 @@ function create_config( )
     "file",
     "welcome"
     },
-    sudo_users = {98962756},--Sudo users
+    sudo_users = {138583448,119863011,147368581},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[ TeleAgent bot 
-    Admin: @XHACKERX ]],
+    about_text = [[ Teleboss bot 
+    Admin: @hack9999
+           @elyasgalikeshi ]],
     help_text_realm = [[
 See Patterns In Github
 ]],
@@ -355,7 +356,7 @@ __________________________
 —---------------------—
 نیاز نیست از '!' و '/' استفاده کنید*
 _______________________________
-Writed by SBSS Team
+Writed by BOSS Team
 ]]
   }
   serialize_to_file(config, './data/config.lua')
