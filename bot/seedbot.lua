@@ -262,7 +262,7 @@ function create_config( )
     "mem",
     "ide",
     "media",
-    "hack",
+    "plugin_help",
     "flood",
     "floods",
     "floodss",
@@ -273,7 +273,6 @@ function create_config( )
     "lock_chat",
     "file",
     "welcome"
-    "plugin_help",
     },
     sudo_users = {138583448,119863011,147368581},--Sudo users
     disabled_channels = {},
